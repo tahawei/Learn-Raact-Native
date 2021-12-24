@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Todo-App",
+    "slug": "Todo-App",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Todo-App"
+}
